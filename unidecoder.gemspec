@@ -1,7 +1,7 @@
 require File.expand_path("../lib/unidecoder/version", __FILE__)
 
 spec = Gem::Specification.new do |s|
-  s.name           = "unidecoder"
+  s.name           = "talentbox-unidecoder"
   s.authors         = ['Russell Norris', 'Norman Clarke']
   s.email          = ['rsl@luckysneaks.com', 'norman@njclarke.com']
   s.summary        = "Transliterates Unicode strings to an ASCII approximation."
